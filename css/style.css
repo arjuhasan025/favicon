@@ -1,0 +1,16 @@
+.h1
+ {
+	display: inline;
+	background-color:black;
+	color: white;
+	margin: 10px;
+	margin color:red ;
+}
+.h2{
+	display: inline;
+	background-color: white;
+	color: black;
+}
+.f{
+	display: block;
+}
